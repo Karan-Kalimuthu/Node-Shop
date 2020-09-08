@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "Karan",
+        "MONGO_PASSWORD": "apple",
+        "MONGO_DEFAULT_DATABASE": "shop",
+        "STRIPE_KEY": "sk_dlkndkvn_sofjsofnofn"
+    }
+}
